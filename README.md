@@ -1,6 +1,6 @@
 # About Me 👋
 I'm Gustavo Rassi, Junior Computer Science student & Freelance Mobile App Developer.
-- 🔭 Currently working on building beautiful apps with flutter & dart, research on drone development with Python & JavaScript.
+- 🔭 Currently working on building beautiful apps with flutter & dart, researching on drone development with Python & JavaScript.
 - 🌱 Currently learning Python, HTML, CSS & JS.
 <!--
 **GustavoRassi/GustavoRassi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
