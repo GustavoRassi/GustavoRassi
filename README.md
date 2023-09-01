@@ -1,7 +1,7 @@
 # About Me 👋
-I'm Gustavo Rassi, Junior Computer Science student & Freelance Mobile App Developer.
-- 🔭 Currently working interface designing & building beautiful apps with Figma, Flutter & Dart.
-- Recently started research on drone development with Python & JavaScript.
+I'm Gustavo Rassi, Junior Computer Science student, Researcher & Freelance Mobile App Developer.
+- 🔭 Currently working on interface designing & building beautiful apps with Figma, Flutter & Dart.
+- 🔬 Recently started research on drone development using BCI & EEG technologies, Python & JavaScript.
 - 🌱 Currently learning Python, HTML, CSS & JS.
 - ⚡ Fun fact: I love video games.
 - 📫 How to reach me: grassi.code@gmail.com
@@ -10,12 +10,9 @@ I'm Gustavo Rassi, Junior Computer Science student & Freelance Mobile App Develo
 
 Here are some ideas to get you started:
 
-🔭 Currently working on
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
