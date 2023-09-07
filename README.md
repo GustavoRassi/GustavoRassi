@@ -1,5 +1,5 @@
 # About Me 👋
-I'm Gustavo Rassi, Junior Computer Science student, Researcher & Freelance Mobile App Developer.
+I'm Gustavo Rassi, Junior Computer Science student, Undergrad Researcher & Mobile App Enthusiast.
 - 🔭 Currently working on interface designing & building beautiful apps with Figma, Flutter & Dart.
 - 🔬 Recently started research on drone development using BCI & EEG technologies, Python & JavaScript.
 - 🌱 Currently learning Python, HTML, CSS & JS.
