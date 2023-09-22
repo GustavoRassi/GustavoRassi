@@ -1,7 +1,7 @@
 # About Me 👋
 I'm Gustavo Rassi, Junior Computer Science student, Undergrad Researcher & Mobile App Enthusiast.
 - 🔭 Currently working on UI designing & building beautiful apps with Figma, Flutter & Dart.
-- 🔬 Actively working on a undergraduate research on drone development with Unity and C# using BCI and EEG technologies.
+- 🔬 Undergraduate researching: Drone development with Unity and C# using BCI and EEG technologies.
 - 🌱 Currently learning Python, HTML, CSS & JS.
 - ⚡ Fun fact: I love video games.
 - 📫 How to reach me: grassi.code@gmail.com
