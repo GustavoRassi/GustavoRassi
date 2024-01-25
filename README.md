@@ -1,5 +1,5 @@
 # About Me 👋
-I'm Gustavo Rassi, Junior Computer Science student, Undergrad Researcher & Mobile App Enthusiast.
+I'm Gustavo Rassi, Junior Computer Science student, Undergrad Researcher & Web Development Enthusiast.
 - 🔬 Undergraduate researching: Drone development with Unity and C# using BCI and EEG technologies.
 - 🌱 Currently learning Python, HTML, CSS & JS.
 - ⚡ Fun fact: I love video games.
