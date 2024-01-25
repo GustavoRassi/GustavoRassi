@@ -4,6 +4,7 @@ I'm Gustavo Rassi, Junior Computer Science student, Undergrad Researcher & Web D
 - 🌱 Currently learning Python, HTML, CSS & JS.
 - ⚡ Fun fact: I love video games.
 - 📫 How to reach me: grassi.code@gmail.com
+- 🎯 Seeking internship opportunities to challenge my skills in the real world.
 <!--
 **GustavoRassi/GustavoRassi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
