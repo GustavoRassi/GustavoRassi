@@ -1,10 +1,10 @@
 # About Me 👋
 I'm Gustavo Rassi, Junior Computer Science student, Undergrad Researcher & Web Development Enthusiast.
-- 🔬 Undergraduate researching: Drone development with Unity and C# using BCI and EEG technologies.
+- 🔬 Undergraduate research: Drone development with Unity and C# using BCI and EEG technologies.
 - 🌱 Currently learning Python, HTML, CSS & JS.
 - ⚡ Fun fact: I love video games.
 - 🎯 Seeking internship opportunities to challenge my skills in the real world.
-- 📫 How to reach me: grassi.code@gmail.com
+- 📫 How to reach me: gustavo.rassi@upr.edu
 <!--
 **GustavoRassi/GustavoRassi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
