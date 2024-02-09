@@ -1,7 +1,7 @@
-# About Me 👋
+# About Me 👋🏽
 I'm Gustavo Rassi, Junior Computer Science student, Undergrad Researcher & Web Development Enthusiast.
 - 🔬 Undergraduate research: Drone development with Unity and C# using BCI and EEG technologies.
-- 🌱 Currently learning Python, HTML, CSS & JS.
+- 🌱 Currently Learning: Python & Web Development.
 - ⚡ Fun fact: I love video games.
 - 🎯 Seeking internship opportunities to challenge my skills in the real world.
 - 📫 How to reach me: gustavo.rassi@upr.edu
