@@ -1,6 +1,6 @@
 # About Me 👋🏽
 I'm Gustavo Rassi, Junior Computer Science student, Undergrad Researcher & Web Development Enthusiast.
-- 🔬 Undergraduate Research: Drone development with Unity and C# using BCI and EEG technologies.
+- 🔬 Undergraduate Research: Brain-Drone topics based on EEG, BCI and Machine Learning technologies.
 - 🌱 Currently Learning: Python & Web Development, including JavaScript.
 - ⚡ Fun fact: I love video games.
 - 🎯 Seeking internship opportunities to challenge and develop my skills in the real world.
