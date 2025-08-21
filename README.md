@@ -1,5 +1,5 @@
 # About Me 👋🏽
-I'm Gustavo Rassi, Junior Computer Science student & Web Development Enthusiast.
+I'm Gustavo Rassi, Junior Computer Science student, Web Development & AI Enthusiast.
 - 🌱 Currently Learning: JavaScript & Web Development.
 - ⚡ Fun fact: I love video games, exercising and beach.
 - 🎯 Seeking internship opportunities to challenge and develop my skills in the real world.
