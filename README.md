@@ -3,7 +3,7 @@ I'm Gustavo Rassi, Junior Computer Science student, Web Development & AI Enthusi
 - 🌱 Currently Learning: Competitive Programming
 - ⚡ Fun fact: I love video games, exercising and beach.
 - 🎯 Seeking internship opportunities to challenge and develop my skills in the real world.
-- 📫 How to reach me: grassi.code@gmail.com
+- 📫 How to reach me: gustavo.rassi@upr.edu
 <!--
 **GustavoRassi/GustavoRassi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
