@@ -1,6 +1,6 @@
 # About Me 👋🏽
 I'm Gustavo Rassi, Junior Computer Science student, Web Development & AI Enthusiast.
-- 🌱 Currently Learning: Competitive Programming
+- 🌱 Currently Learning: Database Management & Design
 - ⚡ Fun fact: I love video games, exercising and beach.
 - 🎯 Seeking internship opportunities to challenge and develop my skills in the real world.
 - 📫 How to reach me: gustavo.rassi@upr.edu
